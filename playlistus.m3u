@@ -103,36 +103,6 @@ https://livestream.telvue.com/accvision2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/pl
 https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACTV.us" tvg-logo="https://i.imgur.com/Z6lB0Ww.png" group-title="Legislative",ACTV
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/athens/live/ch2/video.m3u8
-#EXTINF:-1 tvg-id="AdultSwimAquaTeenHungerForce.us" tvg-logo="https://i.imgur.com/cvnniFH.png" group-title="Animation",Adult Swim Aqua Teen Hunger Force
-https://adultswim-vodlive.cdn.turner.com/live/aqua-teen/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimBlackJesus.us" tvg-logo="https://i.imgur.com/QWzEK8i.png" group-title="Series",Adult Swim Black Jesus
-https://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimChannel5.us" tvg-logo="https://i.imgur.com/G9TyeCN.png" group-title="Entertainment",Adult Swim Channel 5
-https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimDreamCorpLLC.us" tvg-logo="https://i.imgur.com/TSuWOBP.png" group-title="Comedy",Adult Swim Dream Corp LLC
-https://adultswim-vodlive.cdn.turner.com/live/DREAM-CORP-LLC/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimInfomercials.us" tvg-logo="https://i.imgur.com/gu8luP0.png" group-title="Entertainment",Adult Swim Infomercials
-https://adultswim-vodlive.cdn.turner.com/live/infomercials/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimLastStreamOnTheLeft.us" tvg-logo="https://i.imgur.com/bnZCZD2.png" group-title="Entertainment",Adult Swim Last Stream On The Left
-https://adultswim-vodlive.cdn.turner.com/live/lsotl/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimMetalocalypse.us" tvg-logo="https://i.imgur.com/CaKq6Mt.png" group-title="Entertainment",Adult Swim Metalocalypse
-https://adultswim-vodlive.cdn.turner.com/live/metalocalypse/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimOffTheAir.us" tvg-logo="https://i.imgur.com/X2qhBpO.png" group-title="Relax",Adult Swim Off The Air
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimPrimal.us" tvg-logo="https://i.imgur.com/fRysIrL.png" group-title="Animation",Adult Swim Primal
-https://adultswim-vodlive.cdn.turner.com/live/primal/stream_de.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRickandMorty.us" tvg-logo="https://i.imgur.com/uPV5CT1.png" group-title="Animation",Adult Swim Rick and Morty
-https://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimRobotChicken.us" tvg-logo="https://i.imgur.com/E6EJ14j.png" group-title="Animation",Adult Swim Robot Chicken
-https://adultswim-vodlive.cdn.turner.com/live/robot-chicken/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimSamuraiJack.us" tvg-logo="https://i.imgur.com/UOZ4VTH.png" group-title="Animation",Adult Swim Samurai Jack
-https://adultswim-vodlive.cdn.turner.com/live/samurai-jack/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimTheEricAndreShow.us" tvg-logo="https://i.imgur.com/47za7Yq.png" group-title="Series",Adult Swim The Eric Andre Show
-https://adultswim-vodlive.cdn.turner.com/live/eric-andre/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimTheVentureBros.us" tvg-logo="https://i.imgur.com/ZwNmt8Y.png" group-title="Animation",Adult Swim The Venture Bros
-https://adultswim-vodlive.cdn.turner.com/live/venture-bros/stream.m3u8
-#EXTINF:-1 tvg-id="AdultSwimYourPrettyFaceIsGoingToHell.us" tvg-logo="https://i.imgur.com/uLoRE4F.png" group-title="Series",Adult Swim Your Pretty Face Is Going To Hell
-https://adultswim-vodlive.cdn.turner.com/live/ypf/stream.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-logo="https://i.imgur.com/9oyc88J.png" group-title="Sports",Adventure Sports TV
 https://d3rl6ns7c3ilda.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-AdventureSportsTV/438.m3u8
 #EXTINF:-1 tvg-id="AfroLandTV.us" tvg-logo="https://i.imgur.com/jvnkrEF.png" group-title="Entertainment",AfroLandTV
