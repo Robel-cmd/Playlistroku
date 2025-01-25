@@ -405,3 +405,7 @@ https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
 #EXTINF:-1 tvg-id="XtremaCineClasico.ar" tvg-logo="https://i.imgur.com/j91M4Yf.png" group-title="Classic;Movies",Xtrema Cine Clasico
 #EXTVLCOPT:http-referrer=https://xtrematv.com/?p=1460
 https://stmv6.voxtvhd.com.br/cineclasico/cineclasico/playlist.m3u8
+#EXTINF:-1 tvg-id="LogosTVKids.es" tvg-logo="https://i.imgur.com/Kr3U3Ub.png" group-title="Kids;Religious",Logos TV Kids
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
+#EXTINF:-1 tvg-id="TVGInfantil.es" tvg-logo="https://i.imgur.com/brsE5Ow.png" group-title="Kids",TVG Infantil
+https://infantil-crtvg.flumotion.com/playlist.m3u8
