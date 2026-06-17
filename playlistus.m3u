@@ -35,3 +35,4 @@ https://mdstrm.com/live-stream-playlist/6287fdc9303e3008289ab711.m3u8
 https://live-utv.unah.edu.hn/web/salida.m3u8
 #EXTINF:-1 tvg-id="VTV.hn@SD" tvg-logo="https://i.imgur.com/CsPkwD5.png" group-title="General",VTV (480p) [Not 24/7]
 https://d3q93l5bumjyoq.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-id="Canal5.mx@SD" tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="General",Canal 5 (720p) [Geo-blocked]
